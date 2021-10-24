@@ -2,7 +2,7 @@
 source "https://rubygems.org"
 
 gem "jekyll-remote-theme"
-gem 'bootstrap', '~> 4.3.1'
+# gem 'bootstrap', '~> 4.3.1'
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"

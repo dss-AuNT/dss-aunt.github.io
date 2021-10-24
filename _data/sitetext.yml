@@ -19,7 +19,10 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "AuNT (**Au**tomatic **N**etwork **T**ranslator) started when a network engineer got fed up with manually translating configurations from one vendor to another when equipment changes happened.\
+
+
+    Stay tuned for a better, automatic way to do this!"
     section: about
 
   # services:
@@ -85,9 +88,15 @@ en: &DEFAULT_EN
     people:
       - name: "Alexandru Năstase"
         role: "Project Owner/Network Engineer"
-        image: assets/img/team/500x500.jpg # TODO default avatar
+        image: assets/img/team/default2.jpg # TODO default avatar
         social:
           - url: "mailto:nastase.alexandru@hotmail.com"
+            icon: fas fa-envelope
+      - name: "Horia-Mihai Zamfir"
+        role: "Project Manager"
+        image: assets/img/team/horia_zamfir.jpg
+        social:
+          - url: "mailto:horia_mihai.zamfir@stud.etti.upb.ro"
             icon: fas fa-envelope
       - name: "Cătălin-Constantin Mareș"
         role: "Backend Developer"
@@ -101,19 +110,13 @@ en: &DEFAULT_EN
             icon: fas fa-envelope
       - name: "Vlad-Iulius Năstase"
         role: "Backend Developer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/default2.jpg
         social:
           - url: "mailto:vlad_iulius.nastase@stud.acs.upb.ro"
             icon: fas fa-envelope
-      - name: "Horia-Mihai Zamfir"
-        role: "Project Manager"
-        image: assets/img/team/horia_zamfir.jpg
-        social:
-          - url: "mailto:horia_mihai.zamfir@stud.etti.upb.ro"
-            icon: fas fa-envelope
       - name: "Sabina-Maria Jugurică"
         role: "Frontend Developer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/default2.jpg
         social:
           - url: "mailto:sabina.jugurica@stud.etti.upb.ro"
             icon: fas fa-envelope

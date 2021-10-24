@@ -17,7 +17,7 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : AuNT - Automatic Network Translator
+title      : AuNT
 email      : horia_mihai.zamfir@stud.etti.upb.ro #this is also the email contact forms will go to
 description: "AuNT is a tool that allows translation between network devices configurations among different vendors."
 author     : AuNT
@@ -34,6 +34,10 @@ collections:
   portfolio:
 
 markdown: kramdown
+sass:
+    load_paths:
+      - _sass
+    style: compressed
 
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam

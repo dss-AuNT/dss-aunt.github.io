@@ -10,6 +10,7 @@
       margin: 0 auto;
       cursor: pointer;
       .portfolio-hover {
+        border-radius: 50%;
         position: absolute;
         width: 100%;
         height: 100%;
@@ -45,7 +46,7 @@
       margin: 0 auto;
       padding: 25px;
       text-align: center;
-      background-color: $white;
+      background-color: $gray-100
       h4 {
         margin: 0;
         text-transform: none;
@@ -91,6 +92,9 @@
       margin: 20px 0 30px;
       @include serif-font;
     }
+    ul {
+      text-align: left;
+    }
     ul.list-inline {
       margin-top: 0;
       margin-bottom: 30px;
@@ -106,8 +110,8 @@
     position: absolute;
     top: 25px;
     right: 25px;
-    width: 75px;
-    height: 75px;
+    width: 50px;
+    height: 50px;
     cursor: pointer;
     background-color: transparent;
     &:hover {
@@ -117,7 +121,7 @@
       /* Safari and Chrome */
       z-index: 1051;
       width: 1px;
-      height: 75px;
+      height: 50px;
       margin-left: 35px;
       /* IE 9 */
       -webkit-transform: rotate(45deg);
@@ -128,7 +132,7 @@
         /* Safari and Chrome */
         z-index: 1052;
         width: 1px;
-        height: 75px;
+        height: 50px;
         /* IE 9 */
         -webkit-transform: rotate(90deg);
         -ms-transform: rotate(90deg);

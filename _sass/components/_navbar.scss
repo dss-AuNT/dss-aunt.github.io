@@ -71,3 +71,12 @@
     }
   }
 }
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  /* background-color: rgba(254, 200, 16, 0.3); */
+  background-color: rgba($primary, .3);
+}
+
+.base-circle-crop {
+  border-radius: 50%;
+}
