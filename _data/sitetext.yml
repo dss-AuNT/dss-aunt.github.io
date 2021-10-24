@@ -1,3 +1,4 @@
+--- # -----------------
 #
 # Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
 #
@@ -8,7 +9,6 @@
 # {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
 
 # English (default)
-# -----------------
 en: &DEFAULT_EN
   header:
     title: Welcome to our Fiki Page!
@@ -22,7 +22,10 @@ en: &DEFAULT_EN
     body: "AuNT (**Au**tomatic **N**etwork **T**ranslator) started when a network engineer got fed up with manually translating configurations from one vendor to another when equipment changes happened.\
 
 
-    Stay tuned for a better, automatic way to do this!"
+We are a young team with great plans, willing to bring our contribution in the networking world by building an innovative tool which automates the translation between configurations of various network devices vendors.\
+
+
+Stay tuned!"
     section: about
 
   # services:
@@ -61,26 +64,6 @@ en: &DEFAULT_EN
         # you can enforce the alignment
         align: right
     end: "To be continued!"
-
-
-
-  # clients:
-  #   section: clients
-  #   max-height: 100px
-  #   horizontal-scrolling: "" #"yes/no"
-  #   list:
-  #     - title: "envato"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/envato.jpg
-  #     - title: "designmodo"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/designmodo.jpg
-  #     - title: "themeforest"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/themeforest.jpg
-  #     - title: "Creative Market"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "OUR AMAZING TEAM"
