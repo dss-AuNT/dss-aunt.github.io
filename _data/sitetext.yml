@@ -1,3 +1,4 @@
+--- # -----------------
 #
 # Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
 #
@@ -8,7 +9,6 @@
 # {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
 
 # English (default)
-# -----------------
 en: &DEFAULT_EN
   header:
     title: Welcome to our Fiki Page!
@@ -19,7 +19,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "We are a young team with great plans, willing to bring our contribution in the networking world by building an innovative tool which automates the translation between configurations of various network devices vendors."
     section: about
 
   # services:
@@ -59,33 +59,13 @@ en: &DEFAULT_EN
         align: right
     end: "To be continued!"
 
-
-
-  # clients:
-  #   section: clients
-  #   max-height: 100px
-  #   horizontal-scrolling: "" #"yes/no"
-  #   list:
-  #     - title: "envato"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/envato.jpg
-  #     - title: "designmodo"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/designmodo.jpg
-  #     - title: "themeforest"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/themeforest.jpg
-  #     - title: "Creative Market"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/creative-market.jpg
-
   team:
     title: "OUR AMAZING TEAM"
     section: team
     people:
       - name: "Alexandru Năstase"
         role: "Project Owner/Network Engineer"
-        image: assets/img/team/500x500.jpg # TODO default avatar
+        image: assets/img/team/user.png # TODO default avatar
         social:
           - url: "mailto:nastase.alexandru@hotmail.com"
             icon: fas fa-envelope
@@ -101,7 +81,7 @@ en: &DEFAULT_EN
             icon: fas fa-envelope
       - name: "Vlad-Iulius Năstase"
         role: "Backend Developer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/user.png
         social:
           - url: "mailto:vlad_iulius.nastase@stud.acs.upb.ro"
             icon: fas fa-envelope
@@ -113,7 +93,7 @@ en: &DEFAULT_EN
             icon: fas fa-envelope
       - name: "Sabina-Maria Jugurică"
         role: "Frontend Developer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/user.png
         social:
           - url: "mailto:sabina.jugurica@stud.etti.upb.ro"
             icon: fas fa-envelope
