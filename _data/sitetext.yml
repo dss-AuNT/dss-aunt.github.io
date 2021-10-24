@@ -95,6 +95,8 @@ en: &DEFAULT_EN
         social:
           - url: https://www.facebook.com/CatalinM98
             icon: fab fa-facebook-f
+          - url: https://www.linkedin.com/in/c%C4%83t%C4%83lin-constantin-mare%C8%99-b24a6917b/
+            icon: fab fa-linkedin-in
           - url: "mailto:catalin.mares@stud.acs.upb.ro"
             icon: fas fa-envelope
       - name: "Vlad-Iulius Năstase"
@@ -115,6 +117,21 @@ en: &DEFAULT_EN
         social:
           - url: "mailto:sabina.jugurica@stud.etti.upb.ro"
             icon: fas fa-envelope
+
+  contact:
+    title: "Contact Us"
+    text: "Have any questions regarding our project? Don't hesitate to contact us!"
+    section: contact
+    name: "Name*"
+    name-validation: "Please enter your name."
+    email: "Email*"
+    email-validation: "Please enter your email address."
+    phone: "Phone Number"
+    phone-validation: "Please enter your phone number."
+    message: "Message*"
+    message-validation: "Please enter a message."
+    subject: "Contact Form Submission"
+    submit: "Send Message"
 
   footer:
     legal: "Privacy Policy"
