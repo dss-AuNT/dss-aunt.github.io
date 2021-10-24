@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: Welcome to our Fiki Page!
     text: It's Nice To Meet You
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#about"
 
   about:
     title: "About Us"
@@ -53,7 +53,7 @@ en: &DEFAULT_EN
       - title: "Milestone 1"
         year: "25 Oct 2021"
         desc: "Fiki and project description"
-        image: assets/img/timeline/4.jpg # TODO image here
+        image: assets/img/timeline/M1.png
         alt:
         # you can enforce the alignment
         align: right

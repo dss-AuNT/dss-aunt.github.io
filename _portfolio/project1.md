@@ -5,7 +5,7 @@ subtitle: Fiki and project description
 caption:
   title: Milestone 1
   subtitle: Fiki and project description
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg # TODO image here
+  thumbnail: assets/img/portfolio/M1.png  # TODO image here
 ---
 
 ### The problem
