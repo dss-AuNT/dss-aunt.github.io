@@ -16,11 +16,11 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#about"
 
-  services:
+  about:
     title: "About Us"
     text: "our story"
-    subtext: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: services
+    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    section: about
 
   # services:
   #   title: "Services"
