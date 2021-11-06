@@ -80,3 +80,32 @@
 .base-circle-crop {
   border-radius: 50%;
 }
+
+.Mycontainer {
+  display: flex;
+  justify-content:space-evenly;
+  flex-direction:row;
+  flex-wrap: wrap;
+  margin-top:60px
+}
+
+.screenshots {
+  width: 340px;
+  height: 600px;
+  padding-bottom: 60px;
+}
+
+.centerRes8 {
+  width: 440px;
+  height: 500px;
+  padding-top: 30px
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  padding-top: 30px
+}
+
