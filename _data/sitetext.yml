@@ -28,24 +28,8 @@ We are a young team with great plans, willing to bring our contribution in the n
 Stay tuned!"
     section: about
 
-  # services:
-  #   title: "Services"
-  #   text: "Lorem ipsum"
-  #   section: services
-  #   list:
-  #     - title: "E-Commerce"
-  #       desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-  #       icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-  #     - title: "Responsive Design"
-  #       desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-  #       icon: fas fa-laptop
-  #     - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-  #       desc: "Your description here, full **Markdown** support"
-  #       icon: fab fa-markdown
-
   portfolio:
     title: "Milestones"
-    # text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "CLOSE"
 
@@ -53,8 +37,6 @@ Stay tuned!"
     title: "Timeline"
     text: "our progress"
     section: timeline
-    # left is the default
-    #start_align: "left"
     events:
       - title: "Milestone 1"
         year: "25 Oct 2021"
@@ -66,7 +48,7 @@ Stay tuned!"
 
       - title: "Milestone 2"
         year: "08 Nov 2021"
-        desc: "Validation"
+        desc: "Validation 1"
         image: assets/img/timeline/M2.jpg
         alt:
         # you can enforce the alignment
@@ -78,7 +60,7 @@ Stay tuned!"
     section: team
     people:
       - name: "Alexandru Năstase"
-        role: "Project Owner/Network Engineer"
+        role: "Product Owner/Network Engineer"
         image: assets/img/team/Alexandru_Nastase.jpg # TODO default avatar
         social:
           - url: "mailto:nastase.alexandru@hotmail.com"
