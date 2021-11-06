@@ -63,6 +63,14 @@ Stay tuned!"
         alt:
         # you can enforce the alignment
         align: right
+
+      - title: "Milestone 2"
+        year: "08 Nov 2021"
+        desc: "Validation"
+        image: assets/img/timeline/M2.jpg
+        alt:
+        # you can enforce the alignment
+        align: left
     end: "To be continued!"
 
   team:
@@ -71,7 +79,7 @@ Stay tuned!"
     people:
       - name: "Alexandru Năstase"
         role: "Project Owner/Network Engineer"
-        image: assets/img/team/default2.jpg # TODO default avatar
+        image: assets/img/team/Alexandru_Nastase.jpg # TODO default avatar
         social:
           - url: "mailto:nastase.alexandru@hotmail.com"
             icon: fas fa-envelope
@@ -99,7 +107,7 @@ Stay tuned!"
             icon: fas fa-envelope
       - name: "Sabina-Maria Jugurică"
         role: "Frontend Developer"
-        image: assets/img/team/default2.jpg
+        image: assets/img/team/sabina_jugurica.JPG
         social:
           - url: "mailto:sabina.jugurica@stud.etti.upb.ro"
             icon: fas fa-envelope
