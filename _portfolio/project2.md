@@ -98,10 +98,12 @@ On the hobbyists side, things were also interesting. When asked how satisfied ou
 <div>
 <img class = "center" src = "assets/img/results/res9.JPG">
 </div>
-While a higher satisfaction means that they are unlikely to change the vendor or learn a new one, we can observe a very high interest in other technologies among (amogus?) hobbyists, with most of them stating that they would spend less than a month or two learning something new. We find this time to be on the low side. This shows that the idea of a tool to help you see the difference between configurations would be a helpful one.
+While a higher satisfaction means that they are unlikely to change the vendor or learn a new one, we can observe a very high interest in other technologies among hobbyists, with most of them stating that they would spend less than a month or two learning something new. We find this time to be on the low side. This shows that the idea of a tool to help you see the difference between configurations would be a helpful one.
   
 
  <img class = "center" src = "assets/img/results/res10.JPG"><br>
+
+When asked how much time they would spend on learning a new vendor's technology, 55,6% of our hobbyists respondents stated that they would not allocate more than one month. Considering the complexity of the current networking vendor technologies, this time is not enough for learning all the requirements of a new vendor. This emphasizes the lack of time our respondents present, meaning that an improvement meant to save as much time as possible is more than needed in this domain.
 
 # Survey analysis conclusions
 After analyzing our respondents' answers, we learned that many professionals find the vendor transition process long and difficult due to the complexity of the networks requiring this process and, most importantly, the lack of automation. For this, we consider these responses a good enough validation for our startup project idea.
