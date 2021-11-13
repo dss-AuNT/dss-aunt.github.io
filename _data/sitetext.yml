@@ -53,6 +53,14 @@ Stay tuned!"
         alt:
         # you can enforce the alignment
         align: left
+
+      - title: "Milestone 3"
+        year: "15 Nov 2021"
+        desc: "Wireframe and Landing Page"
+        image: assets/img/timeline/M3.jpg
+        alt:
+        # you can enforce the alignment
+        align: right
     end: "To be continued!"
 
   team:
