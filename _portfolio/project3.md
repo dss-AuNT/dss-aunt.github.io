@@ -41,4 +41,4 @@ The user can also choose to <b>upload a file</b> with his current configuration 
 
 
 ### Landing page
-You can access AuNT's landing page <a href="https://TODO" target="_blank">here</a>.
+You can access AuNT's landing page <a href="https://dss-aunt.github.io/AuNT/dist/index.html" target="_blank">here</a>.
