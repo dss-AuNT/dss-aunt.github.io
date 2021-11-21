@@ -22,14 +22,14 @@ Out of the potential candidates that we reached out to, 4 of them accepted our i
 For the planification of the interviews we used <a href="https://doodle.com/poll/x4sghm932egb8g5z" target="_blank">this Doodle</a>.
 
 
-Unfortunately, when the time for the interviews came up, 2 of our 4 candidates did not show up, so we conducted only 2 interviews, one with a professional potential client and one with a hobbyist.
+Unfortunately, when the time for the interviews came up, 2 of our 4 candidates did not show up, so we conducted only 2 interviews, one with a professional potential client and one with a hobbyist. Another interview is rescheduled for the next week since something came up on our interviewee's schedule. We will update the Fiki page with the 3rd interview next week.
 
-<div class="container-fluid d-flex justify-content-center mb-5">
+<div class="container-fluid d-flex justify-content-center flex-wrap mb-5">
     <div class="card bg-light m-3" style="width: 25rem">
         <div class="card-header">Interview 1 - Professional</div>
         <img class="card-img-top" src="assets/img/professionals.jpg" alt="Card image cap">
         <div class="card-body">
-            <audio controls>
+            <audio controls style="width: 100%">
                 <source src="assets/img/audio/interviu1.mp3" type="audio/mpeg">
                 The browser does not support the audio element
             </audio>
@@ -48,7 +48,7 @@ Unfortunately, when the time for the interviews came up, 2 of our 4 candidates d
         <div class="card-header">Interview 2 - Hobbyist</div>
         <img class="card-img-top" src="assets/img/hobbyists.jpg" alt="Card image cap">
         <div class="card-body">
-            <audio controls>
+            <audio controls style="width: 100%">
               <source src="assets/img/audio/interviu2.mp3">
               The browser does not support the audio element
             </audio>
@@ -70,7 +70,7 @@ Unfortunately, when the time for the interviews came up, 2 of our 4 candidates d
 ### User stories
 During our interviews, we identified the following user stories:
 
-<div class="container-fluid d-flex justify-content-center mb-5">
+<div class="container-fluid d-flex justify-content-center flex-wrap mb-5">
     <div class="card bg-light m-3" style="width: 25rem">
         <div class="card-header">Professionals</div>
         <img class="card-img-top" src="assets/img/professionals.jpg" alt="Card image cap">
