@@ -43,7 +43,6 @@ Stay tuned!"
         desc: "Fiki and project description"
         image: assets/img/timeline/M1.png
         alt:
-        # you can enforce the alignment
         align: right
 
       - title: "Milestone 2"
@@ -51,7 +50,6 @@ Stay tuned!"
         desc: "Validation 1"
         image: assets/img/timeline/M2.jpg
         alt:
-        # you can enforce the alignment
         align: left
 
       - title: "Milestone 3"
@@ -59,8 +57,14 @@ Stay tuned!"
         desc: "Wireframe and Landing Page"
         image: assets/img/timeline/M3.jpg
         alt:
-        # you can enforce the alignment
         align: right
+
+      - title: "Milestone 4"
+        year: "22 Nov 2021"
+        desc: "User Experience"
+        image: assets/img/timeline/M4.jpg
+        alt:
+        align: left
     end: "To be continued!"
 
   team:
@@ -69,7 +73,7 @@ Stay tuned!"
     people:
       - name: "Alexandru Năstase"
         role: "Product Owner/Network Engineer"
-        image: assets/img/team/Alexandru_Nastase.jpg # TODO default avatar
+        image: assets/img/team/Alexandru_Nastase.jpg
         social:
           - url: "mailto:nastase.alexandru@hotmail.com"
             icon: fas fa-envelope
@@ -100,6 +104,12 @@ Stay tuned!"
         image: assets/img/team/sabina_jugurica.JPG
         social:
           - url: "mailto:sabina.jugurica@stud.etti.upb.ro"
+            icon: fas fa-envelope
+      - name: "Alexandru-Alin Mircea"
+        role: "Backend Developer"
+        image: assets/img/team/default2.jpg
+        social:
+          - url: "mailto:alexmircea98@stud.acs.upb.ro"
             icon: fas fa-envelope
 
   contact:
