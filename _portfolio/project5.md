@@ -44,10 +44,14 @@ As expected, without paying for ads most of our traffic came from Romania, with 
 
 From the heatmap we can see that our page is intuitive enough, with users following the natural flow of our landing page, with a little bit over 20% of them reaching the subscription form.
 
+#### Desktop Browser
+
 <div class="conatiner-fluid mb-5">
     <img class="img-fluid" width="350px" src="assets/img/analytics/heatmap-2722847-scroll-desktop.jpg"/>
     <img class="img-fluid" width="350px" src="assets/img/analytics/heatmap-8632572-click-desktop.jpg"/>
 </div>
+
+#### Mobile Browser
 
 <div class="conatiner-fluid mb-5">
     <img class="img-fluid" width="350px" src="assets/img/analytics/heatmap-2722847-scroll-phone.jpg"/>
