@@ -31,13 +31,13 @@ Our most successful platform was LinkedIn. That makes sense as it is technically
 From Google Analytics we can also see that we have a decent engagement rate (88% for LinkedIn and 66% for direct access).
 
 <div class="container-fluid">
-  <img class="img-fluid" width="500px" src="assets/img/analytics/sources.png"/>
+  <img class="img-fluid" width="750px" src="assets/img/analytics/sources.png"/>
 </div>
 
 As expected, without paying for ads most of our traffic came from Romania, with a few outliers from countries like Germany, Turkey, United States.
 
 <div class="container-fluid">
-  <img class="img-fluid" width="500px" src="assets/img/analytics/countries.png"/>
+  <img class="img-fluid" width="750px" src="assets/img/analytics/countries.png"/>
 </div>
 
 ### Hotjar
@@ -59,7 +59,7 @@ From the heatmap we can see that our page is intuitive enough, with users follow
 We also have 6 total subscriptions to our newsletter which falls in the range we expected, based on the other analytics.
 
 <div class="conatiner-fluid mb-5">
-    <img class="img-fluid" width="500px" src="assets/img/analytics/formspree.png"/>
+    <img class="img-fluid" width="750px" src="assets/img/analytics/formspree.png"/>
 </div>
 
 
