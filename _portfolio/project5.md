@@ -13,10 +13,10 @@ caption:
 In order to populate the landing page, we shared the link on different social platforms( eg. Linkedin, Whatsapp, ?Facebook.)
 
 <div class="container-fluid">
-  <img class="img-fluid" width="250px" src="assets/img/proof/whatsapp5.png"/>
-  <img class="img-fluid" width="250px" src="assets/img/proof/linkedin5.PNG"/>
-  <img class="img-fluid" width="250px" src="assets/img/proof/linkedin5_2.jpeg"/>
-  <img class="img-fluid" width="250px" src="assets/img/proof/facebook5.PNG"/>
+  <img class="img-fluid" width="350px" src="assets/img/proof/whatsapp5.png"/>
+  <img class="img-fluid" width="350px" src="assets/img/proof/linkedin5.PNG"/>
+  <img class="img-fluid" width="350px" src="assets/img/proof/linkedin5_2.jpeg"/>
+  <img class="img-fluid" width="350px" src="assets/img/proof/facebook5.PNG"/>
 </div>
 
 
@@ -25,19 +25,19 @@ In order to populate the landing page, we shared the link on different social pl
 Our most successful platform was LinkedIn. That makes sense as it is technically/professionally oriented and our solution targets a niche of IT. A close contender are direct accesses which we attribute to our lack of knowledge in using analytics when distributing to Whatsapp.
 
 <div class="container-fluid">
-  <img class="img-fluid" width="250px" src="assets/img/analytics/sources2.png"/>
+  <img class="img-fluid" width="500px" src="assets/img/analytics/sources2.png"/>
 </div>
 
 From Google Analytics we can also see that we have a decent engagement rate (88% for LinkedIn and 66% for direct access).
 
 <div class="container-fluid">
-  <img class="img-fluid" width="250px" src="assets/img/analytics/sources.png"/>
+  <img class="img-fluid" width="500px" src="assets/img/analytics/sources.png"/>
 </div>
 
 As expected, without paying for ads most of our traffic came from Romania, with a few outliers from countries like Germany, Turkey, United States.
 
 <div class="container-fluid">
-  <img class="img-fluid" width="250px" src="assets/img/analytics/countries.png"/>
+  <img class="img-fluid" width="500px" src="assets/img/analytics/countries.png"/>
 </div>
 
 ### Hotjar
@@ -45,13 +45,13 @@ As expected, without paying for ads most of our traffic came from Romania, with 
 From the heatmap we can see that our page is intuitive enough, with users following the natural flow of our landing page, with a little bit over 20% of them reaching the subscription form.
 
 <div class="conatiner-fluid mb-5">
-    <img class="img-fluid" width="250px" src="assets/img/analytics/heatmap-2722847-scroll-desktop.jpg"/>
-    <img class="img-fluid" width="250px" src="assets/img/analytics/heatmap-8632572-click-desktop.jpg"/>
+    <img class="img-fluid" width="350px" src="assets/img/analytics/heatmap-2722847-scroll-desktop.jpg"/>
+    <img class="img-fluid" width="350px" src="assets/img/analytics/heatmap-8632572-click-desktop.jpg"/>
 </div>
 
 <div class="conatiner-fluid mb-5">
-    <img class="img-fluid" width="250px" src="assets/img/analytics/heatmap-2722847-scroll-phone.jpg"/>
-    <img class="img-fluid" width="250px" src="assets/img/analytics/heatmap-8632572-click-phone.jpg"/>
+    <img class="img-fluid" width="350px" src="assets/img/analytics/heatmap-2722847-scroll-phone.jpg"/>
+    <img class="img-fluid" width="350px" src="assets/img/analytics/heatmap-8632572-click-phone.jpg"/>
 </div>
 
 ### Formspree
@@ -59,7 +59,7 @@ From the heatmap we can see that our page is intuitive enough, with users follow
 We also have 6 total subscriptions to our newsletter which falls in the range we expected, based on the other analytics.
 
 <div class="conatiner-fluid mb-5">
-    <img class="img-fluid" width="250px" src="assets/img/analytics/formspree.png"/>
+    <img class="img-fluid" width="500px" src="assets/img/analytics/formspree.png"/>
 </div>
 
 
