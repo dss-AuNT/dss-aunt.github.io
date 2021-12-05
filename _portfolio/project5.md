@@ -10,7 +10,7 @@ caption:
 
 ### Populating the landing page
 
-In order to populate the landing page, we shared the link on different social platforms( eg. Linkedin, Whatsapp, ?Facebook.)
+In order to populate the landing page, we shared the link on different social platforms, like Linkedin, Whatsapp & Facebook.
 
 <div class="container-fluid">
   <img class="img-fluid" width="350px" src="assets/img/proof/whatsapp5.png"/>
