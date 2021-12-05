@@ -65,6 +65,13 @@ Stay tuned!"
         image: assets/img/timeline/M4.jpg
         alt:
         align: left
+
+      - title: "Milestone 5"
+        year: "06 Dec 2021"
+        desc: "Validation 2"
+        image: assets/img/timeline/M5.png
+        alt:
+        align: right
     end: "To be continued!"
 
   team:
