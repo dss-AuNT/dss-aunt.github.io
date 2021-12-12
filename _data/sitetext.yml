@@ -72,6 +72,13 @@ Stay tuned!"
         image: assets/img/timeline/M5.png
         alt:
         align: right
+
+      - title: "Milestone 6"
+        year: "13 Dec 2021"
+        desc: "Market Research"
+        image: assets/img/timeline/M6.png
+        alt:
+        align: left
     end: "To be continued!"
 
   team:
