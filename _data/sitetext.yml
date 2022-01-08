@@ -79,6 +79,13 @@ Stay tuned!"
         image: assets/img/timeline/M6.png
         alt:
         align: left
+
+      - title: "Milestone 7"
+        year: "10 Jan 2022"
+        desc: "Minimum Viable Product - MVP"
+        image: assets/img/timeline/M7.jpg
+        alt:
+        align: right
     end: "To be continued!"
 
   team:
