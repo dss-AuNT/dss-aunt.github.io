@@ -31,7 +31,7 @@ The main interface can be seen below. We also kept the proposed simplicity from 
 
 
 <div class="container-fluid">
-  <img class="img-fluid" width="900px" src="assets/img/M7/M7_3.JPG"/>
+  <img class="img-fluid" width="1200px" src="assets/img/M7/M7_3.JPG"/>
 </div>
 
 Our MVP can be accessed from <a href = "https://dss.vladnastase.tech/" target="_blank"> here </a>.
