@@ -86,6 +86,13 @@ Stay tuned!"
         image: assets/img/timeline/M7.jpg
         alt:
         align: right
+
+      - title: "Milestone 8"
+        year: "10 Jan 2022"
+        desc: "First Sale"
+        image: assets/img/timeline/M7.jpg
+        alt:
+        align: left
     end: "To be continued!"
 
   team:
