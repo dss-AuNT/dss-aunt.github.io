@@ -5,7 +5,7 @@ subtitle: First Sale
 caption:
   title: Milestone 8
   subtitle: First Sale
-  thumbnail: assets/img/timeline/M7.jpg
+  thumbnail: assets/img/timeline/M8.jpeg
 ---
 
 We tried getting our product in the hands of both targeted categories. Below we summarize the feedback we received and how we perceived it.
